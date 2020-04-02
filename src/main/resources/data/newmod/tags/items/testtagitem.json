@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"newmod:test_item",
+		"minecraft:apple"	
+	]
+}

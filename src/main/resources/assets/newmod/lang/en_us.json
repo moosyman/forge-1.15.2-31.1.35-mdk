@@ -1,0 +1,18 @@
+{
+	"item.newmod.example_item": "Jade Crumbs",
+	"item.newmod.test_item": "Hot Dog",
+	"item.newmod.gem_fissure": "Gem Fissure",
+	"item.newmod.special_item": "Healthy Ring",
+	
+	"item.newmod.example_sword": "Jaden Sword",
+	"item.newmod.example_pickaxe": "Jaden Pickaxe",
+	"item.newmod.example_axe": "Jaden Axe",
+	"item.newmod.example_shovel": "Jaden Shovel",
+	"item.newmod.example_hoe": "Jaden Hoe",
+	
+	"block.newmod.example_block": "Jaden Cube",
+	"block.newmod.gem_vein": "Gem Vein",
+	
+	"itemGroup.newtab": "Cool Kid's Tab"
+	
+}

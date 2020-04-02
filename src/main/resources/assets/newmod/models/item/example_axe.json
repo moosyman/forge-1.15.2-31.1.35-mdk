@@ -1,0 +1,11 @@
+{
+
+	"parent": "item/handheld",
+
+	"textures": {
+
+		"layer0": "newmod:items/example_axe"
+
+	}
+
+}
