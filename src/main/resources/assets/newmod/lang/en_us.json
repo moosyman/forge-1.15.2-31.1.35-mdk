@@ -4,6 +4,11 @@
 	"item.newmod.gem_fissure": "Gem Fissure",
 	"item.newmod.special_item": "Healthy Ring",
 	
+	"item.newmod.jaden_helmet": "Jaden Helmet",
+	"item.newmod.jaden_chestplate": "Jaden Chestplate",
+	"item.newmod.jaden_leggings": "Jaden Leggings",
+	"item.newmod.jaden_boots": "Jaden Boots",
+	
 	"item.newmod.example_sword": "Jaden Sword",
 	"item.newmod.example_pickaxe": "Jaden Pickaxe",
 	"item.newmod.example_axe": "Jaden Axe",
@@ -11,7 +16,14 @@
 	"item.newmod.example_hoe": "Jaden Hoe",
 	
 	"block.newmod.example_block": "Jaden Cube",
+	"block.newmod.jaden_ore": "Jaden Ore",
 	"block.newmod.gem_vein": "Gem Vein",
+	"block.newmod.example_log": "Henlent Log",
+	"block.newmod.example_planks": "Henlent Planks",
+	"block.newmod.example_leaves": "Henlent Leaves",
+	"block.newmod.example_sapling": "Henlent Sapling",
+	
+	"biome.newmod.example_biome": "Bamboo Woodlands",
 	
 	"itemGroup.newtab": "Cool Kid's Tab"
 	

@@ -1,0 +1,13 @@
+{
+
+    "parent": "block/cube_column",
+
+    "textures": {
+
+        "end": "newmod:blocks/example_log_top",
+
+        "side": "newmod:blocks/example_log"
+
+    }
+
+}

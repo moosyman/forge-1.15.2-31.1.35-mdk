@@ -1,0 +1,13 @@
+{
+
+    "variants": {
+
+        "axis=y":  { "model": "newmod:block/example_log" },
+
+        "axis=z":   { "model": "newmod:block/example_log", "x": 90 },
+
+        "axis=x":   { "model": "newmod:block/example_log", "x": 90, "y": 90 }
+
+    }
+
+}

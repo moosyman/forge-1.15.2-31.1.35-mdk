@@ -1,0 +1,11 @@
+{
+
+    "parent": "block/cross",
+
+    "textures": {
+
+        "cross": "newmod:blocks/example_sapling"
+
+    }
+
+}

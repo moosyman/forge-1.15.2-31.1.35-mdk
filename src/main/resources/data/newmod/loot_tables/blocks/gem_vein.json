@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "newmod:example_block"
+              "name": "newmod:gem_vein"
             },
             {
               "type": "minecraft:item",
@@ -56,7 +56,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "newmod:example_item"
+              "name": "newmod:gem_fissure"
             }
           ]
         }
